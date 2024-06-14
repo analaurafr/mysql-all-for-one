@@ -6,4 +6,4 @@ Este projeto, desenvolvido como parte dos estudos do módulo de Back-end da esco
 
 ## Objetivo
 
-O objetivo deste projeto foi exercitar a capacidade de criar soluções que envolvam os principais comandos e conceitos iniciais do SQL. Através de uma série de desafios, foi possível praticar e reforçar o entendimento sobre a manipulação e gestão de bancos de dados relacionais.
+O objetivo deste projeto foi exercitar a capacidade de criar soluções que envolvam os principais comandos e conceitos iniciais do SQL. Através de desafios, foi possível praticar e reforçar o entendimento sobre a manipulação e gestão de bancos de dados relacionais.
