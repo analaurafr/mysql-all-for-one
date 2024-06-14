@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto - All For One
+
+## Descrição do Projeto
+
+Este projeto, desenvolvido como parte dos estudos do módulo de Back-end da escola de tecnologia [Trybe](https://www.betrybe.com/), visa consolidar o conhecimento adquirido sobre SQL através da resolução de uma série de desafios.
+
+## Objetivo
+
+O objetivo deste projeto foi exercitar a capacidade de criar soluções que envolvam os principais comandos e conceitos iniciais do SQL. Através de uma série de desafios, foi possível praticar e reforçar o entendimento sobre a manipulação e gestão de bancos de dados relacionais.
